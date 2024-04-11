@@ -1,2 +1,1 @@
-# Playwright
- 
+Testing Talks Hub React App
