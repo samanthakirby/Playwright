@@ -1,1 +1,4 @@
-Testing Talks Hub React App
+To use:
+-Install dependancies (yarn install)
+-Run app (yarn start)
+-Run tests (yarn test)
