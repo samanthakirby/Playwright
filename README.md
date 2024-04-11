@@ -1,4 +1,4 @@
 To use:
 -Install dependancies (yarn install)
 -Run app (yarn start)
--Run tests (yarn test)
+-Run tests (yarn run test)
