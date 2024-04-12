@@ -1,98 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce1d527-c564-4480-ae27-6d22624bd655" name="Default Changelist" comment="initial">
-      <change afterPath="$PROJECT_DIR$/e2e/playwright.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/env/parseEnv.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/step-definitions/setup/world.ts" afterDir="false" />
+    <list default="true" id="dc2c46e0-1226-4e8a-92aa-e32d3e2b3ba5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/contacts.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/contacts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_contact.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/new_contact.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/env/parseEnv.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/env/parseEnv.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/features/home-page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/features/home-page.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/assertions/verify-element-visibility.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/assertions/verify-element-visibility.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/hooks/hooks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/setup/hooks.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/navigation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/navigation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/setup/hooks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/setup/hooks.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/setup/world.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/setup/world.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContactForm.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactForm.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContactItem.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactItem.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContactList.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContactList.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/playground.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/playground.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicAlert.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicAlert.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicAutoComplete.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicAutoComplete.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicAvatars.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicAvatars.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicBrowserAlert.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicBrowserAlert.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicButtons.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicButtons.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicCard.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicCard.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicCheckBox.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicCheckBox.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicIframe.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicIframe.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicIndex.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicIndex.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicInputValues.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicInputValues.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicLogin.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicLogin.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicMenu.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicMenu.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicOpenWindow.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicOpenWindow.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicREST.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicREST.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicRadioButton.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicRadioButton.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicSelect.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicSelect.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicShowHide.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicShowHide.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicStoredValues.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicStoredValues.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicSwitch.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicSwitch.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicTab.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicTab.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicTable.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicTable.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicTextArea.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicTextArea.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicTooltip.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicTooltip.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicValidation.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicValidation.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BasicValues.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BasicValues.react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contacts.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/contacts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>react-router-dom</find>
-      <find>BrowserRouter</find>
-      <find>Switch</find>
-      <find>useEffec</find>
-      <find>logo</find>
-      <find>Route</find>
-      <find>component</find>
-      <find>class</find>
-      <find>renderList</find>
-      <find>renderEditForm</find>
-      <find>create</find>
-      <find>underscore</find>
-      <find>history</find>
-      <find>useEffect(</find>
-      <find>useEffect</find>
-      <find>Contacts</find>
-      <find>create-contact</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="more-regex" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/public/manifest.json" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/components/BasicAvatars.react.js" />
-        <option value="$PROJECT_DIR$/src/components/BasicStoredValues.react.js" />
-        <option value="$PROJECT_DIR$/src/components/BasicLogin.react.js" />
-        <option value="$PROJECT_DIR$/src/assets/css/playground.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/assets/css/styles.css" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-      </list>
-    </option>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
-    <option name="y" value="131" />
-    <option name="width" value="2122" />
-    <option name="height" value="1124" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="38" />
+    <option name="width" value="2377" />
+    <option name="height" value="1268" />
   </component>
-  <component name="ProjectId" id="2XsKFx1brRn8EWeKAbrwLL5PMde" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="1zwdxCqlZ0VTJN7LHi660unnYBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="react-app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/code/Testing Talks Hub/Cucumber-Playwright-TypeScript/react-app" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -105,98 +108,49 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/e2e/package.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="$PROJECT_DIR$/e2e/node_modules/@cucumber/cucumber" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="C:\Users\salou0\WebstormProjects\Play\Playwright\e2e\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/e2e/node_modules/typescript/lib" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/e2e/env" />
+      <recent name="$PROJECT_DIR$/e2e" />
+      <recent name="$PROJECT_DIR$/e2e/src/env" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/e2e" />
+      <recent name="$PROJECT_DIR$/e2e/src" />
+      <recent name="$PROJECT_DIR$/backup" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.test:all">
-    <configuration name="home-page.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
-      <option name="myFilePath" value="$PROJECT_DIR$/e2e/src/features/home-page.feature" />
-      <option name="myNameFilter" />
-      <option name="cucumberJsArguments" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/e2e" />
-      <method v="2" />
-    </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="test:all" type="js.build_tools.npm">
+  <component name="RunManager">
+    <configuration name="cucumber --profile dev" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/e2e/package.json" />
       <command value="run" />
       <scripts>
-        <script value="test" />
+        <script value="cucumber" />
       </scripts>
+      <arguments value="--profile dev" />
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="test:dev" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/e2e/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test:dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="test:regression" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/e2e/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test:regression" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="test:smoke" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/e2e/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test:smoke" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Cucumber.js.home-page.feature" />
-      <item itemvalue="npm.test:smoke" />
-      <item itemvalue="npm.test:regression" />
-      <item itemvalue="npm.test:dev" />
-      <item itemvalue="npm.test:all" />
-      <item itemvalue="npm.start" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.start" />
-        <item itemvalue="Cucumber.js.home-page.feature" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -204,37 +158,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bce1d527-c564-4480-ae27-6d22624bd655" name="Default Changelist" comment="" />
-      <created>1638155757223</created>
+      <changelist id="dc2c46e0-1226-4e8a-92aa-e32d3e2b3ba5" name="Changes" comment="" />
+      <created>1635063330066</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638155757223</updated>
-      <workItem from="1699412249451" duration="22000" />
-      <workItem from="1712801495266" duration="4508000" />
-      <workItem from="1712871051703" duration="942000" />
-      <workItem from="1712873196100" duration="8007000" />
+      <updated>1635063330066</updated>
+      <workItem from="1635063334866" duration="10946000" />
+      <workItem from="1635142318903" duration="11556000" />
+      <workItem from="1635315575656" duration="354000" />
+      <workItem from="1635316198872" duration="236000" />
+      <workItem from="1635316508206" duration="839000" />
+      <workItem from="1635322634807" duration="1661000" />
+      <workItem from="1635376791937" duration="2000" />
+      <workItem from="1635407197322" duration="29000" />
+      <workItem from="1635407957011" duration="35000" />
+      <workItem from="1635408458884" duration="2686000" />
+      <workItem from="1635657360014" duration="12253000" />
+      <workItem from="1635747548537" duration="11021000" />
+      <workItem from="1635918844609" duration="22286000" />
+      <workItem from="1636012630642" duration="7619000" />
+      <workItem from="1636073629307" duration="501000" />
+      <workItem from="1636150289607" duration="4415000" />
+      <workItem from="1636238450921" duration="4669000" />
+      <workItem from="1636264929166" duration="52000" />
+      <workItem from="1636266598294" duration="87000" />
+      <workItem from="1636267892942" duration="682000" />
+      <workItem from="1636270106905" duration="27000" />
+      <workItem from="1636273178224" duration="6000" />
+      <workItem from="1636273360942" duration="806000" />
+      <workItem from="1643438220207" duration="980000" />
     </task>
-    <task id="LOCAL-00001" summary="initial">
-      <created>1712807292346</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1712807292346</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="257" y="131" width="2122" height="1124" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="2560" height="1353" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28509617" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -242,24 +210,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49375" visible="true" weight="0.27906978" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50625" side_tool="true" visible="true" weight="0.27906978" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Log Analyzer" order="10" />
-      <window_info anchor="bottom" id="SOQL Query" order="11" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/e2e/src/env/parseEnv.js" />
+        <option value="$PROJECT_DIR$/e2e/src/index.js" />
+        <option value="$PROJECT_DIR$/e2e/src/step-definitions/navigation.js" />
+        <option value="$PROJECT_DIR$/e2e/src/step-definitions/setup/world.js" />
+        <option value="$PROJECT_DIR$/e2e/src/step-definitions/setup/hooks.js" />
+        <option value="$PROJECT_DIR$/e2e/src/step-definitions/assertions/verify-element-visibility.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -271,124 +243,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/setupTests.js" />
-    <entry file="file://$PROJECT_DIR$/src/reportWebVitals.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/BasicTab.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js" />
-    <entry file="file://$PROJECT_DIR$/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/public/logo192.png" />
-    <entry file="file://$PROJECT_DIR$/public/logo512.png" />
-    <entry file="file://$PROJECT_DIR$/src/contacts.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/robots.txt" />
-    <entry file="file://$PROJECT_DIR$/assets/contacts.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BasicLogin.react.js" />
-    <entry file="file://$PROJECT_DIR$/src/assets/css/playground.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BasicStoredValues.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BasicAvatars.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="89" column="10" selection-start-line="89" selection-start-column="10" selection-end-line="89" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContactList.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContactForm.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-956">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContactItem.react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
