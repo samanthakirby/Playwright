@@ -4,18 +4,26 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js src/features/**/*.feature --require-module ts-node/register --require src/step-definitions/**/**/*.ts",
-    "test:dev": "cucumber-js src/features/**/*.feature --tags @dev --require-module ts-node/register --require src/step-definitions/**/**/*.ts",
-    "test:smoke": "cucumber-js src/features/**/*.feature --tags @smoke --require-module ts-node/register --require src/step-definitions/**/**/*.ts",
-    "test:regression": "cucumber-js src/features/**/*.feature --tags @regression --require-module ts-node/register --require src/step-definitions/**/**/*.ts"
+    "precucumber": "rimraf reports && mkdir reports && echo {} > reports/report.json",
+    "transpile": "rimraf dist && babel --extensions .ts --out-dir dist src",
+    "cucumber": "yarn transpile && cucumber-js",
+    "cucumber:localhost": "NODE_ENV=localhost COMMON_CONFIG_FILE=env/common.env yarn cucumber",
+    "cucumber:production": "NODE_ENV=production COMMON_CONFIG_FILE=env/common.env yarn cucumber",
+    "postcucumber": "COMMON_CONFIG_FILE=env/common.env ts-node ./src/reporter/cucumber-report.ts"
   },
-  "author": "Samantha Louw",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^10.4.0",
-    "@playwright/test": "^1.43.0",
-    "playwright": "^1.43.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "@babel/cli": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "cucumber-html-reporter": "^5.5.0",
+    "axe-html-reporter": "^2.2.3",
+    "axe-playwright": "^1.1.9",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "playwright": "^1.16.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
   }
 }
