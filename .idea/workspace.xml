@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bce1d527-c564-4480-ae27-6d22624bd655" name="Default Changelist" comment="initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/step-definitions/hooks/hooks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/src/step-definitions/hooks/hooks.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +207,7 @@
       <workItem from="1699412249451" duration="22000" />
       <workItem from="1712801495266" duration="4508000" />
       <workItem from="1712871051703" duration="942000" />
-      <workItem from="1712873196100" duration="5300000" />
+      <workItem from="1712873196100" duration="5798000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1712807292346</created>
